@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Planet
-- 🌱 I’m currently learning FLutter, JavaScript, PHP
+- 🌱 i master in flutter, JavaScript, PHP, HTML, CSS, Dart, Java
 
 https://hapidzf.blogspot.com/
 
-<!--
+<!--, 
 **Hapidzfadli/Hapidzfadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
