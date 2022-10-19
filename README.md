@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 i master in flutter, JavaScript, PHP, HTML, CSS, Dart, Java
 
-https://hapidzf.blogspot.com/
+https://hapidzfadli.com/
 
 <!--, 
 **Hapidzfadli/Hapidzfadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
