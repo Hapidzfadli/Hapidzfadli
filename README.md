@@ -50,7 +50,7 @@ A comprehensive video streaming platform with features like adaptive bitrate str
 - Containerization with Docker and Kubernetes
 - Modern frontend using Next.js and Tailwind CSS
 
-[View Project](https://github.com/hapidzfadli/hflix) | [Live Demo](https://hflix.example.com)
+[View Project](https://github.com/hapidzfadli/backend-hflix-streaming-app-springboot) | [Live Demo](https://hflix.hapidzfadli.com)
 
 ### Village Administrative Letter Management System
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -66,7 +66,7 @@ A digital solution for village administrative document management with secure di
 - Responsive UI with Next.js and Tailwind CSS
 - Deployed on DigitalOcean VPS
 
-[View Project](https://github.com/hapidzfadli/village-admin) | [Live Demo](https://village-admin.example.com)
+[View Project](https://github.com/hapidzfadli/web-desa-sakerta-barat) | [Live Demo](https://desa.hapidzfadli.com)
 
 ### Digital Talent Scholarship
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
